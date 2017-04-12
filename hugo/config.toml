@@ -11,7 +11,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [Params]
-  subtitle = "Imagine the futur of SG development technologies"
+  subtitle = "I am bored of github pages"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
