@@ -1,0 +1,57 @@
+languageCode = "en-us"
+title = "NSA Blog"
+
+baseurl = "/"
+author = "NSA"
+languagecode = "en"
+relativeURLs = true
+theme = "beautifulhugo"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+disqusShortname = "savoisnblog"
+googleAnalytics = "UA-57936080-1"
+
+[Params]
+  subtitle = "Make code fun, make fun code"
+  logo = "/img/avatar-icon.png"
+  favicon = "/img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+[[menu.main]]
+    identifier = "samples"
+    name = "Samples"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Welcome"
+    url = "/post/welcome"
+    weight = 1
+
+[[menu.main]]
+    parent = "samples"
+    name = "display link on arch"
+    url = "/post/displaylink_on_arch"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Playing with Traefik and Consul"
+    url = "/post/traefic_consul"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
