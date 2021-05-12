@@ -5,9 +5,9 @@ tags = []
 title = "My Elixir Status 2019"
 +++
 
-= Making Elixir Known in France - #MyElixirStatus
+# Making Elixir Known in France - #MyElixirStatus
 
-== Status of Elixir in France 
+## Status of Elixir in France 
 
 (as of begining 2019)
 
@@ -20,7 +20,7 @@ One of the reason is that France, missed the Ruby turn nearly completely excepti
 
 Another reason is that France is stuck with Java since 20 years, ignore other technologies like it's too difficult to learn anything +
 
-== My Solution
+## My Solution
 
 I've been waiting for someone in the french IT speaker world, to raise it's voice and start speaking about Elixir in the major IT event but it never came.
 
@@ -45,7 +45,7 @@ I've also reactivated the Elixir Paris Meetup, to get the community alive in Par
 You can find the info here : https://www.meetup.com/fr-FR/elixir/events/259923641/
 
 
-== The Workshop
+## The Workshop
 
 Elixir is a fantastic language and ecosystem built by crafters with testing as central axis.
 
