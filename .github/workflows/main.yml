@@ -26,10 +26,8 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: savoisn/savoisn.github.io
-          publish_dir: ./public
-          keep_files: true
           user_name: savoisn
           user_email: nicolas.savois@gmail.com
-          publish_branch: master
+          publish_branch: gh-pages
         #   cname: example.com
 
