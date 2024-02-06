@@ -10,5 +10,5 @@ Nicolas SAVOIS
 
 Elixir Fanboy
 
-CTO @ TalanLabs
+CTO @ Pix
 
