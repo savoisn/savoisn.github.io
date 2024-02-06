@@ -31,10 +31,8 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.TOKEN }}
-          external_repository: savoisn/savoisn.github.io
-          user_name: savoisn
-          user_email: nicolas.savois@gmail.com
           publish_branch: gh-pages
 
